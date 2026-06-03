@@ -1,0 +1,13 @@
+{
+  "name": "shoulder",
+  "description": "Security layer for AI-generated code. Proves vulnerabilities with taint-flow evidence, flags supply-chain and dependency risk across every package ecosystem, explains fixes in context, and turns confirmed findings into prevention rules.",
+  "author": {
+    "name": "Shoulder",
+    "url": "https://shoulder.dev"
+  },
+  "homepage": "https://shoulder.dev",
+  "repository": "https://github.com/shoulderdev/plugins",
+  "keywords": ["security", "taint-analysis", "vulnerability-scanning", "devsecops", "sast", "supply-chain", "dependencies", "sbom", "package-risk"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "shoulderdev": {
+      "source": {
+        "source": "github",
+        "repo": "shoulderdev/plugins"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "shoulder@shoulderdev": true
+  }
+}

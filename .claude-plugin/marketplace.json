@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "shoulderdev",
+  "owner": {
+    "name": "Shoulder",
+    "email": "founders@shoulder.dev"
+  },
+  "description": "Shoulder — the security trust layer for AI-generated code. Taint-flow vulnerability proof plus supply-chain and dependency risk across every package ecosystem.",
+  "plugins": [
+    {
+      "name": "shoulder",
+      "source": "./",
+      "description": "Security layer for AI-generated code. Proves vulnerabilities with taint-flow evidence, flags supply-chain and dependency risk across every package ecosystem, explains fixes in context, and turns confirmed findings into prevention rules.",
+      "category": "security",
+      "author": {
+        "name": "Shoulder",
+        "url": "https://shoulder.dev"
+      },
+      "homepage": "https://shoulder.dev",
+      "keywords": ["security", "taint-analysis", "vulnerability-scanning", "devsecops", "sast", "supply-chain", "dependencies", "sbom", "package-risk"]
+    }
+  ]
+}

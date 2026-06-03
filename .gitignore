@@ -1,0 +1,5 @@
+.shoulder/
+
+# Personal, machine-specific Claude Code config — never commit
+.claude/settings.local.json
+**/settings.local.json

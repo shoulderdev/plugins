@@ -199,7 +199,8 @@
           {
             "type": "command",
             "command": "npx -y @shoulderdev/cli serve hooks claude",
-            "timeout": 5000
+            "timeout": 5000,
+            "asyncRewake": true
           }
         ]
       }
